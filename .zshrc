@@ -107,3 +107,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias chrome="google-chrome"
+alias aptin="sudo apt-get install"
+alias aptup="sudo apt-get update"
